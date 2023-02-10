@@ -1,5 +1,5 @@
 // ----------------------------------------
-// TESTING FUNCTIONS
+// INITIALIZATION FUNCTIONS
 // ----------------------------------------
 
 function buildEdges(p){
